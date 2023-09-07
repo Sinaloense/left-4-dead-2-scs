@@ -1,5 +1,5 @@
-# left-4-dead-2-scs "SCS v0.9.0d"
+# left-4-dead-2-scs "SCS v0.9.02"
 ## Configuraciones usadas en https://www.ServersCStrike.com/
 ## Plugins
-- SourceBans 1.x https://github.com/sbpp/sourcebans-pp/commit/5331ab9d759308adef97d6bd026ba3d650aa6411
-- Advertisements https://forums.alliedmods.net/showthread.php?t=155705
+- SourceBans php81 https://github.com/sbpp/sourcebans-pp/commit/e3e8ff144b6dc1d5bb4d7c279eb5852a10d1faa8
+- Advertisements 2.1.0 https://forums.alliedmods.net/showthread.php?t=155705
