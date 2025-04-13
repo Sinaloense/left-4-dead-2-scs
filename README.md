@@ -1,4 +1,4 @@
-# left-4-dead-2-scs "SCS v0.9.05"
+# left-4-dead-2-scs "SCS v0.9.06"
 ## Configuraciones usadas en https://www.ServersCStrike.com/
 ## Plugins
 - SourceBans php81 https://github.com/Sinaloense/sourcebans-pp-scs/commit/824176322a8755f8e20886f9f82c70f878b6e932
